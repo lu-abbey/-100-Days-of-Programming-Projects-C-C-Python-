@@ -1,2 +1,24 @@
-# -100-Days-of-Programming-Projects-C-C-Python-
-100 real-world programming projects in C, C++ &amp; Python, taking you from beginner to expert. Includes step-by-step GitHub labs, clean source code, and challenges aligned with a Day 1–Day 100 YouTube series.
+# Day 01 – Hello World in C
+
+Welcome to **Day 1** of the 100 Days of Programming Projects.
+
+In this lab, you will:
+- Install a C compiler
+- Write your first C program
+- Compile and run it
+- Understand how C programs work
+
+---
+
+## 🛠️ Requirements
+- Linux / Windows / macOS
+- GCC Compiler
+- Text Editor (VS Code / Nano / Vim)
+
+---
+
+## 🔧 Installation (Linux)
+```bash
+sudo apt update
+sudo apt install build-essential
+gcc --version
